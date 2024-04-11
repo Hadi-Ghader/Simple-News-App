@@ -1,0 +1,1 @@
+Powered by the GNews API, the app allows users to search for news articles based on their interests.
